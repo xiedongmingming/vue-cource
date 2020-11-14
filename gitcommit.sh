@@ -8,7 +8,7 @@ if [ $? == 0 ]; then
 
 	git add .
     git commit -m "学习"
-    git push origin/xieming
+    git push origin xieming
 
 fi
 
