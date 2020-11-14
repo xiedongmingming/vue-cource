@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git diff origin/master
+git diff origin/xieming
 
 if [ $? == 0 ]; then
 
